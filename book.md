@@ -61,6 +61,28 @@ Whilst every attempt is made to ensure that the information provided here is cor
 
 ## Poses
 
+### Grips {#grips}
+
+#### Bird Grip
+
+This is a grip for doing bird.
+
+**Flyers Fingers Forwards** is the alliteration you need to remember for this grip.
+
+Both the flyer and base have mitton hands where the fingers are all together and the thumb is out to the side (perpendicular). The alliteration above is super helpful. The flyers fingers face forwards and so the bases fingers need to face to the outside to fit in.
+
+#### Hand to Hand Grip
+
+This grip is used for doing hand to hand and other poses like star. For some reason it's known as hand to hand grip. It is also sometimes known as peace grip.
+
+In this grip, both partners shoot two fingers down the wrist. Thumbs lock and the other two fingers wrap the hand. The goal is to compress the space between the palms.
+
+#### Bro Grip / Butterfly Grip
+
+This is a grip where each person extends the same sided hand. Interlock the thumbs and rap the rest of the fingers around the backside of the palm.
+
+This grip is used mostly for a thing called courtesy. Helping people up and down to the ground.
+
 ### L-Base
 
 #### All The Birds
@@ -73,7 +95,7 @@ This is the first step into the world of birds. It's a supported version of regu
 
 In this pose the flyer is roughly parallel with the ground and the base is lying on the ground in a L shape. The flyers hands and the bases hands are connected and aimed through the bases shoulders.
 
-[[Hand Grips]]
+[Grips](#grips)
 
 The Base allows the flyer to fall into the feet by bringing the need towards the elbows. When the hands make contact, the base pushes through the heels of the flyer to parallel with the ground. Depending on base and flyer proportions, the flyer can arch into a small cobra in the back to make the line between shoulders perpendicular to the ground.
 
