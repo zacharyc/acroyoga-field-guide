@@ -20,7 +20,52 @@ Whilst every attempt is made to ensure that the information provided here is cor
 
 **Modified from the Yoga Slackers (who are awesome)**
 
+## Warm Ups
+
+### Solo Warm Ups
+
+- Neck Rolls
+- Shoulder Rolls
+- Flash Lights (wrists)
+- Roll the bracelet
+- Wrist Push Ups
+- Hip Circles
+- Knee Circles
+- Ankle Circles
+- Calf Raises
+- Air Squats
+- Leg Swings (front to back, side to side)
+- Push ups, Down Dog Push Ups
+- Static Stretching
+- Lines of Movement
+  - Inch Warms
+  - high knees
+  - butt kickers
+  - spider man crawl
+  - bear walks
+  - crab walks
+  - Flamingo
+  - Oil Rigs
+  - Knee across the body
+  - Knee openers
+  - high kicks
+  - Cartwheels
+  - Kong runs
+  - Leaps
+  - Skipping
+
+### Partner Warm Ups:
+
+- Back to back squats
+- Jumping High Fives
+
 ## Poses
+
+### L-Base
+
+#### Bird and similar
+
+####
 
 ### Easy
 
