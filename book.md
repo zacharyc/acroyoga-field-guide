@@ -20,6 +20,18 @@ Whilst every attempt is made to ensure that the information provided here is cor
 
 **Modified from the Yoga Slackers (who are awesome)**
 
+## Poses
+
+### Easy
+
+### Intermediate
+
+### Hard
+
+## Machines
+
+## Whips + Pops
+
 ## References
 
 [Yoga Slackers](https://yogaslackers.com)
