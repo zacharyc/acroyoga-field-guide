@@ -18,7 +18,7 @@ These compilations of skills and practice are known as ‘best practice’. They
 
 Whilst every attempt is made to ensure that the information provided here is correct and safe, the information presented is not a substitute for good judgement. Always check information with other sources, higher authorities, certified teachers, instructors, engineers and use your own judgment. By using the provided information, the user hereby releases the authors and providers of said information from any liability for any injury, including death, that may result.
 
-**Modified from the Yoga Slackers (who are awesome)**
+**Modified from the Yoga Slackers (who are awesome).**
 
 ## Warm Ups
 
@@ -63,9 +63,35 @@ Whilst every attempt is made to ensure that the information provided here is cor
 
 ### L-Base
 
-#### Bird and similar
+#### All The Birds
 
-####
+The most common pose in Acro is called Bird. It's like that pose Airplane you used to do when you were a kid, but without the hands. This section will deal with the all the birds and there are bunch of them.
+
+##### Front Plank
+
+This is the first step into the world of birds. It's a supported version of regular bird.
+
+In this pose the flyer is roughly parallel with the ground and the base is lying on the ground in a L shape. The flyers hands and the bases hands are connected and aimed through the bases shoulders.
+
+[[Hand Grips]]
+
+The Base allows the flyer to fall into the feet by bringing the need towards the elbows. When the hands make contact, the base pushes through the heels of the flyer to parallel with the ground. Depending on base and flyer proportions, the flyer can arch into a small cobra in the back to make the line between shoulders perpendicular to the ground.
+
+To dismount the base lowers the knees to the shoulders while keeping the arms straight. Once the flyer makes contact with the ground the base extends the flyer by pushing through the toes to get the flyer to perpendicular with the ground.
+
+###### Bird
+
+Bird is front Plank without the hands.
+
+It is achieved by the base putting more pressure on the toes, like stepping on a gas peddle. This motion is attempting to help the flyer lift the chest up.
+
+Flyers can help by pushing more into the hips. And pulling the heels and chest up towards the sky.
+
+###### Back Bird
+
+###### Reverse Bird
+
+###### Walking The Plank
 
 ### Easy
 
@@ -80,3 +106,13 @@ Whilst every attempt is made to ensure that the information provided here is cor
 ## References
 
 [Yoga Slackers](https://yogaslackers.com)
+
+## Colophon
+
+This book / site was made by [zacharyc](https://www.zacharyc.com) with the guidance of many, many, many wonderful instructors and friends who have helped me learn the skills to be write this.
+
+The site and book is made via Pandoc. Much of the knowledge is written originally in Obsidian and then moved over to this website.
+
+Eventually this will be a hard copy, but that is going to be a while. Updates to how that is produced, once it's made, will be posted here (hopefully).
+
+The content on this site can be referenced however you would like, but an attribution would be greatly appreciated.
