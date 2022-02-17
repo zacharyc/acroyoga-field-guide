@@ -10,7 +10,7 @@ Firstly, thanks for picking up a copy (or reading it online) of this field guide
 
 This guide is designed to be a tool for someone doing acroyoga in the field. It is a guide with some ideas of what to practice. This guide is NOT a replacement for instruction. If you are trying something new, especially something rated difficult, please find an expert to help you out. This guide is more meant to refresh your memory and give you ideas of what to put together.
 
-## Disclaimer:
+## Disclaimer
 
 Practicing Acroyga comes with a danger of personal injury or death. Participants in these activities should be aware of and accept these risks, and be responsible for their own actions. These guidelines and the information presented in this book are believed to be accurate at the time of production. No responsibility can be accepted for any loss of benefit or entitlement arising through the use of these guidelines – as they are not intended to be definitive.
 
