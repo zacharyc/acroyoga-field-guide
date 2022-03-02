@@ -130,9 +130,17 @@ table {
 
 /* AFG Code */
 
+html {
+    line-height: 1.5;
+    font-family: Georgia, serif;
+    font-size: 20px;
+    color: #1a1a1a;
+    background-color: #fdfdfd;
+}
+
 body {
-  font-family: Georgia, serif;
-  padding-top: 1rem;
+  /*padding-top: 1rem;*/
+  line-height: inherit;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -163,6 +171,10 @@ h5 {
 
 h6 {
   font-size: 1.25rem;
+}
+
+p {
+  margin: 1em 0;
 }
 
 .wrapper {
