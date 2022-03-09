@@ -8,18 +8,18 @@
     <div class="wrapper">
       <header></header>
       <h1>Acroyoga Field Guide</h1>
-      <p>Welcome to the Acroyoga Field Guide. This is an attempt to create a resource for figuring out what to do a jam.
-        This guide is not complete and there are many people who are far more expert than me. No written word can be
-        substitute for a good instructor. Hopefully this is just a starting off point.</p>
+      <p>
+        Welcome to the Acroyoga Field Guide. This is an attempt to create a
+        resource for figuring out what to do a jam. This guide is not complete
+        and there are many people who are far more expert than me. No written
+        word can be substitute for a good instructor. Hopefully this is just a
+        starting off point.
+      </p>
       <p></p>
 
-      <section>
-        <h2>Introduction</h2>
-        <p>Firstly, thanks for picking up a copy (or reading it online) of this field guide. It is a project that I felt I needed to do and hopefully you will find it useful. I’m writing this as much for me as I am for you, but if you have feedback, don’t hesitate to send me a note at <a href="mailto:zachary@zacharyc.com">zachary@zacharyc.com</a>.</p>
-
-        <p>This guide is designed to be a tool for someone doing acroyoga in the field. It is a guide with some ideas of what to practice. This guide is NOT a replacement for instruction. If you are trying something new, especially something rated difficult, please find an expert to help you out. This guide is more meant to refresh your memory and give you ideas of what to put together.</p>
-
-      </section>
+      {%- for post in collections.sections -%}
+      <seciton class="section"> {{ post.templateContent }} </seciton>
+      {%- endfor -%}
 
       <footer>
         created by <a href="https://www.zacharyc.com/">zacharyc</a>

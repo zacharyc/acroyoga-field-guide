@@ -130,12 +130,20 @@ table {
 
 /* AFG Code */
 
+:root {
+  --base-h1: 2.5rem;
+  --base-h2: 2.25rem;
+  --base-h3: 2rem;
+  --base-h4: 1.75rem;
+  --base-h5: 1.5rem;
+  --base-h6: 1.25rem;
+}
 html {
-    line-height: 1.5;
-    font-family: Georgia, serif;
-    font-size: 20px;
-    color: #1a1a1a;
-    background-color: #fdfdfd;
+  line-height: 1.5;
+  font-family: Georgia, serif;
+  font-size: 20px;
+  color: #1a1a1a;
+  background-color: #fdfdfd;
 }
 
 body {
@@ -143,34 +151,39 @@ body {
   line-height: inherit;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: Georgia, serif;
   font-weight: 700;
   padding-bottom: 1rem;
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: var(--base-h1);
 }
 
 h2 {
-  font-size: 2.25rem;
+  font-size: var(--base-h2);
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: var(--base-h3);
 }
 
 h4 {
-  font-size: 1.75rem;
+  font-size: var(--base-h4);
 }
 
 h5 {
-  font-size: 1.5rem;
+  font-size: var(--base-h5);
 }
 
 h6 {
-  font-size: 1.25rem;
+  font-size: var(--base-h6);
 }
 
 p {
@@ -181,4 +194,8 @@ p {
   width: 720px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.section h1 {
+  font-size: var(--base-h2);
 }
