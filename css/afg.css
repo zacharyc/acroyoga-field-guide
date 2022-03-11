@@ -213,3 +213,12 @@ ul {
   margin-inline-end: 0px;
   padding-inline-start: 40px;
 }
+
+footer {
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  border-top: 1px dotted black;
+  background: #c7c7c7;
+  padding: 10px;
+}
