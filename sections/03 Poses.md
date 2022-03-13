@@ -6,6 +6,6 @@ tags: sections
 
 Poses are the cool things you see on instagram that are static.
 
-{%- for post in collections.pose -%}
-<seciton class="section"> {{ post.templateContent }} </seciton>
+{%- for pose in collections.pose -%}
+<seciton class="section"> {{ pose.templateContent }} </seciton>
 {%- endfor -%}
