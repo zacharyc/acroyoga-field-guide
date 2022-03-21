@@ -21,6 +21,14 @@
       <seciton class="section"> {{ post.templateContent }} </seciton>
       {%- endfor -%}
 
+      <h2>Poses</h2>
+      
+      <p>Poses are the cool things you see on instagram that are static.</p>
+      
+      {%- for pose in collections.sortedPoses -%}
+      <seciton class="section"> {{ pose.templateContent }} </seciton>
+      {%- endfor -%}
+
       <h3>Colophon</h3>
 
       <p>
