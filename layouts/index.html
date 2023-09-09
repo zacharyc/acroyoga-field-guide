@@ -1,9 +1,0 @@
-<h1>This is a test</h1>
-
-{{ define "main" }} {{ $pag := .Paginate (where site.RegularPages "Type" "in"
-site.Params.mainSections ) 6 }}
-<div class="archive-body">
-  {{ range $pag.Pages }} {{ .Render "li" }} {{ end }}
-</div>
-
-{{ partial "pagination" . }} {{ end }}

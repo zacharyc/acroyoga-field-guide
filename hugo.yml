@@ -1,0 +1,7 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Acroyoga Field Guide"
+theme: "acroyogaFieldGuide"
+
+Params:
+  mainSections: ["Poses"]
