@@ -1,6 +1,8 @@
 ---
 tags: pose
 difficulty: easy
+title: Poses
+date: "2023-09-11"
 ---
 
 # Poses

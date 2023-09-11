@@ -3,5 +3,11 @@ languageCode: "en-us"
 title: "Acroyoga Field Guide"
 theme: "acroyogaFieldGuide"
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 Params:
   mainSections: ["Poses"]
