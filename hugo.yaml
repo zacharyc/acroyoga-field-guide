@@ -1,0 +1,11 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Acroyoga Field Guide"
+# outputs:
+#   home:
+#     - HTML
+#     - RSS
+#     - JSON
+
+# Params:
+#   mainSections: ["Poses"]
