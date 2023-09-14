@@ -11,8 +11,10 @@
       >
     </a>
   </li>
-  {{ end }} {{ range where (where .Site.RegularPages "Section" "poses")
-  ".File.Ext" "md" | first 20 }}
+  {{ end }}
+
+  {{ range where (where .Site.RegularPages "Section" "poses") ".File.Ext" "md" |
+  first 20 }}
   <li class="post">
     <a href="{{ .Permalink }}">
       <date>{{ .Date.Format "02.01.2006" }}</date>
