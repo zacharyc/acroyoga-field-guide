@@ -5,6 +5,17 @@
     <br />
     <span class="subtitle">{{ .Params.Subtitle }}</span>
   </h1>
+
+  {{ if .Params.tags }}
+  <ul class="tags">
+    {{ range .Params.tags }}
+    <li><a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
+  <!-- Test -->
+
   {{ .Content }}
 </div>
 {{ end }}

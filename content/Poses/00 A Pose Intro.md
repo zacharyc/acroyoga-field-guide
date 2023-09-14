@@ -1,5 +1,5 @@
 ---
-tags: pose
+tags:
 difficulty: easy
 title: Poses
 date: "2023-09-11"
