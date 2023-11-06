@@ -110,14 +110,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: Privacy
+      name: Privacy
+      url: /privacy
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+    #   weight: 10
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags/
+    #   weight: 20
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
